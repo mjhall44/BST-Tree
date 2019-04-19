@@ -1,0 +1,1 @@
+this will test the binary search tree in a normal way
